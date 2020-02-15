@@ -1,0 +1,29 @@
+#bookAddInput{
+    display: none;
+}
+#delete{
+    display: none;
+}
+.enterQuantity{
+    visibility: hidden;
+}
+.checkbox{
+    visibility: hidden;
+}
+table,th,td{
+    border:1px solid black;
+    font-size: 15px;
+    text-align: center;
+ 
+
+}
+td{
+    padding:1%;
+    width: 10%;
+}
+thead{
+    font-size: 40px;
+    font-weight: 200;
+
+}
+
